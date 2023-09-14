@@ -82,3 +82,12 @@ if(x != -1)
   And its index is ${x}`)
 }
 else console.log("Element not exist")
+
+
+/*
+if(myArray.includes("Banana"))
+{
+  console.log("Element exist")
+}
+else console.log("Element not exist")
+*/
